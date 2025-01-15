@@ -55,12 +55,7 @@ This is a URL shortener project built with Django and Django Ninja. It allows us
 ## Configuration
 
 - The project settings are located in [settings.py](http://_vscodecontentref_/20).
-- The API routes are defined in [api.py](http://_vscodecontentref_/21) and registered in [api.py](http://_vscodecontentref_/22).
-
-## Usage
-
-- Navigate to `http://127.0.0.1:8000/` to view the home page.
-- Use the navigation bar to access different sections of the diary.
+- The API routes are defined in [api.py](http://_vscodecontentref_/21) and registered in [api.py](http://_vscodecontentref_/22). 
 
 ## Contributing
 
